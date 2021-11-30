@@ -1,0 +1,11 @@
+map  I   navigate previous
+map  I   navigate previous
+map  K navigate next
+map  K navigate next
+map  k scroll down
+map  k scroll down
+map  i scroll up
+map  i scroll up
+map = zoom in
+map - zoom out
+map Q quit
